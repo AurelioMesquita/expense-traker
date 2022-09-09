@@ -38,4 +38,4 @@ npm start
 
 ## Prints layouts:
 
-<img align="center" src="" width="90%"></a>
+<img align="center" src="https://github.com/AurelioMesquita/expense-traker/blob/bf6c395131466431c6dffa37e51862fb10ae6db3/public/images/Sistema_Financeiro.png" width="90%"></a>
